@@ -1,7 +1,6 @@
 
-## 📄 README Template for GitHub
+## 📄 Teach Yourself LLM
 
-```markdown
 # 🔍 Data Analyst to LLM-Powered Data Scientist
 
 This repo is a self-study learning path designed for data analysts looking to level up into full-stack data science, with a strong focus on data engineering and large language models (LLMs).
@@ -39,4 +38,3 @@ All external blogs, papers, and repos are linked in the [plan.md](./llm_data_sci
 ---
 
 Built with ❤️ for anyone tired of writing SQL but hungry to build smarter systems.
-```
