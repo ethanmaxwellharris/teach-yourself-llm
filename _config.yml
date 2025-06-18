@@ -1,0 +1,12 @@
+title: Teach Yourself LLM
+theme: minima
+markdown: kramdown
+
+# Optional: Show pages as nav links
+navigation:
+  - title: Home
+    url: /
+  - title: Plan
+    url: /plan
+  - title: About
+    url: /about
