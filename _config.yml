@@ -6,7 +6,9 @@ markdown: kramdown
 navigation:
   - title: Home
     url: /
-  - title: Plan
+  - title: Weekly Plan
     url: /plan
   - title: About
     url: /about
+  - title: Crash Course
+    url: /crash_course
