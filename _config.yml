@@ -1,14 +1,3 @@
 title: Teach Yourself LLM
-theme: minima
+theme: just-the-docs
 markdown: kramdown
-
-# Optional: Show pages as nav links
-navigation:
-  - title: Home
-    url: /
-  - title: Weekly Plan
-    url: /plan
-  - title: About
-    url: /about
-  - title: Crash Course
-    url: /crash_course
