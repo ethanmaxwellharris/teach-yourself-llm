@@ -21,7 +21,7 @@ A 10-week self-study plan for data analysts with a CS background aiming to trans
 
 ## Week 1: Transformers Core
 - **Read**:
-  - *Attention Is All You Need*
+  - [Attention Is All You Need](https://arxiv.org/pdf/1706.03762)
   - [The Annotated Transformer](https://nlp.seas.harvard.edu/2018/04/03/attention.html)
 - **Build**:
   - Transformer from scratch (or use [lucidrains/x-transformers](https://github.com/lucidrains/x-transformers))
